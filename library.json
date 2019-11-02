@@ -1,0 +1,10 @@
+{
+    "name": "arduino-neohandler",
+    "version": "1.0.0",
+    "keywords": "nonblocking, handler, timer",
+    "description": "Arduino library for nonblocking operations",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ceclin/arduino-neohandler.git"
+    }
+}
